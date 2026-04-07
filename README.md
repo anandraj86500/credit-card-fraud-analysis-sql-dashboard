@@ -1,0 +1,1 @@
+Due to GitHub's file size limitations, the original large datasets (Excel/PBIX >100MB) are not uploaded here. This repository focuses on the SQL Analytical Queries and Dashboard Insights (Images/PDFs) derived from that data.
