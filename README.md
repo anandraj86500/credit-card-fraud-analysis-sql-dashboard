@@ -1,1 +1,9 @@
-Due to GitHub's file size limitations, the original large datasets (Excel/PBIX >100MB) are not uploaded here. This repository focuses on the SQL Analytical Queries and Dashboard Insights (Images/PDFs) derived from that data.
+#Note on Dataset
+
+Due to file size limitations, the complete dataset is not uploaded to this repository.
+
+- Total dataset size: ~555K+ rows
+- The analysis was performed on the full dataset
+- A sample dataset or structure can be provided upon request
+
+If you want access to the full dataset, feel free to contact me.
